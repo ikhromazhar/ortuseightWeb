@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "RightGrotesk";
+  src: url("./Font/RightGrotesk-CompactBlack.otf")
+}
+@font-face {
+  font-family: "NeueMontreal";
+  src: url("./Font/NeueMontreal-Regular.otf")
+}
+@font-face {
+  font-family: "SupplyLight";
+  src: url("./Font/Supply-Light.otf")
+}
+@font-face {
+  font-family: "newsflash";
+  src: url("./Font/NEWSFLASH.otf")
+}
+@font-face {
+  font-family: "newsflash";
+  src: url("./Font/NEWSFLASH.otf")
+}
+
+
+body{
+	overflow-x: hidden;
+}
+
+
+

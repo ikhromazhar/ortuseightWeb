@@ -1,0 +1,21 @@
+           <span className="text-6xl  text-white bg-black  px-8 absolute italic rotate-[-8deg] font-bold uppercase ml-[54rem] mt-[9.5rem]">running </span>
+              <span className="text-6xl text-white bg-black px-8 absolute italic rotate-[-8deg] font-bold uppercase ml-[54rem] mt-[14rem]	"> shoes</span>
+              	
+              <div className="bg-[#FCE6CF] w-[4rem] h-[10rem] absolute  ml-[52rem] mt-[10.2rem]"></div>
+
+              
+              <div className="bg-[#FCE6CF] w-[5rem] h-[6rem] absolute  ml-[70rem] mt-[8rem]"></div>
+              <div className="bg-[#FCE6CF] w-[5rem] h-[6rem] absolute  ml-[66rem] mt-[12.7rem]"></div>
+              
+              
+              
+              
+              
+                           <div className="fixed w-[21rem] mt-[10rem] bg-slate-100	pb-40 h-auto">
+             <div className="fixed w-[30rem] mt-[6.5rem] bg-[#FCE6CF]	rotate-[-28deg] pb-40 z-10 h-auto">
+             </div>
+                <img className="z-20 text-red-600 mt-[-3rem]" src={logo} alt=""/>
+             </div> 	
+             
+             
+             w-full z-0 absolute font-[RightGrotesk]  h-[15rem]"
